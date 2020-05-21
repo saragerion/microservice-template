@@ -1,0 +1,40 @@
+{
+  "name": "microservice-template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "format": "eslint --fix",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saragerion/microservice-boilerplate.git"
+  },
+  "author": "Sara Gerion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saragerion/microservice-boilerplate/issues"
+  },
+  "homepage": "https://github.com/saragerion/microservice-boilerplate#readme",
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "@types/node": "^14.0.5",
+    "@typescript-eslint/eslint-plugin": "^3.0.0",
+    "@typescript-eslint/parser": "^3.0.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-eslint-comments": "^3.1.2",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-jest": "^23.13.1",
+    "eslint-plugin-node": "^11.1.0",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.0.0",
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=12"
+  }
+}
