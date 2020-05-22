@@ -1,2 +1,2 @@
-# microservice-boilerplate
+# microservice-template
 
