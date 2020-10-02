@@ -6,4 +6,4 @@
 - Jest
 - Terraform
 - AWS
-- Github Workflow
+- Github Actions
